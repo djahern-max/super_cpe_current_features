@@ -1,6 +1,6 @@
 # Current Feature
 
-## Feature NN, Course thumbnails and the catalog card
+## Feature 34, Course thumbnails and the catalog card
 
 > Set NN from the last entry in `CHANGELOG.md` before starting.
 
